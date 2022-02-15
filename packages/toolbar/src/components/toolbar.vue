@@ -45,7 +45,7 @@ import { IPropItems, IPropEngine, IPropToolbarItem } from './IPropTypes'
 
 interface IProp {
   engine: IPropEngine
-  items: IPropItems
+  items: IPropItems[]
   className?: string
   popup?: boolean
   onLoad?: Function
@@ -66,11 +66,8 @@ const update = () => {
   if (Array.isArray(props.items)) {
     props.items.forEach((group) => {
       if (!Array.isArray(group)) {
-        // @ts-ignore
         dataGroup.icon = group.icon
-        // @ts-ignore
         dataGroup.content = group.content
-        // @ts-ignore
         group = [...group.items]
       }
       if (Array.isArray(group)) {
@@ -163,7 +160,6 @@ const update = () => {
 
   if (dataGroup.items.length > 0) {
     data.push(dataGroup)
-    // @ts-ignore
     groups.value = [...data]
   }
 }
