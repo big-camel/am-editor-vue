@@ -8,42 +8,42 @@ importers:
   ../../apps/example:
     specifiers:
       '@am/toolbar-vue': workspace:*
-      '@aomao/engine': ^2.6.16
-      '@aomao/plugin-alignment': ^2.6.16
-      '@aomao/plugin-backcolor': ^2.6.16
-      '@aomao/plugin-bold': ^2.6.16
-      '@aomao/plugin-code': ^2.6.16
-      '@aomao/plugin-codeblock-vue': ^2.6.16
-      '@aomao/plugin-file': ^2.6.16
-      '@aomao/plugin-fontcolor': ^2.6.16
-      '@aomao/plugin-fontfamily': ^2.6.16
-      '@aomao/plugin-fontsize': ^2.6.16
-      '@aomao/plugin-heading': ^2.6.16
-      '@aomao/plugin-hr': ^2.6.16
-      '@aomao/plugin-image': ^2.6.16
-      '@aomao/plugin-indent': ^2.6.16
-      '@aomao/plugin-italic': ^2.6.16
-      '@aomao/plugin-line-height': ^2.6.16
-      '@aomao/plugin-link-vue': ^2.6.16
-      '@aomao/plugin-mark': ^2.6.16
-      '@aomao/plugin-math': ^2.6.16
-      '@aomao/plugin-mention': ^2.6.16
-      '@aomao/plugin-orderedlist': ^2.6.16
-      '@aomao/plugin-paintformat': ^2.6.16
-      '@aomao/plugin-quote': ^2.6.16
-      '@aomao/plugin-redo': ^2.6.16
-      '@aomao/plugin-removeformat': ^2.6.16
-      '@aomao/plugin-selectall': ^2.6.16
-      '@aomao/plugin-status': ^2.6.16
-      '@aomao/plugin-strikethrough': ^2.6.16
-      '@aomao/plugin-sub': ^2.6.16
-      '@aomao/plugin-sup': ^2.6.16
-      '@aomao/plugin-table': ^2.6.16
-      '@aomao/plugin-tasklist': ^2.6.16
-      '@aomao/plugin-underline': ^2.6.16
-      '@aomao/plugin-undo': ^2.6.16
-      '@aomao/plugin-unorderedlist': ^2.6.16
-      '@aomao/plugin-video': ^2.6.16
+      '@aomao/engine': ^2.7.30
+      '@aomao/plugin-alignment': ^2.7.30
+      '@aomao/plugin-backcolor': ^2.7.30
+      '@aomao/plugin-bold': ^2.7.30
+      '@aomao/plugin-code': ^2.7.30
+      '@aomao/plugin-codeblock-vue': ^2.7.30
+      '@aomao/plugin-file': ^2.7.30
+      '@aomao/plugin-fontcolor': ^2.7.30
+      '@aomao/plugin-fontfamily': ^2.7.30
+      '@aomao/plugin-fontsize': ^2.7.30
+      '@aomao/plugin-heading': ^2.7.30
+      '@aomao/plugin-hr': ^2.7.30
+      '@aomao/plugin-image': ^2.7.30
+      '@aomao/plugin-indent': ^2.7.30
+      '@aomao/plugin-italic': ^2.7.30
+      '@aomao/plugin-line-height': ^2.7.30
+      '@aomao/plugin-link-vue': ^2.7.30
+      '@aomao/plugin-mark': ^2.7.30
+      '@aomao/plugin-math': ^2.7.30
+      '@aomao/plugin-mention': ^2.7.30
+      '@aomao/plugin-orderedlist': ^2.7.30
+      '@aomao/plugin-paintformat': ^2.7.30
+      '@aomao/plugin-quote': ^2.7.30
+      '@aomao/plugin-redo': ^2.7.30
+      '@aomao/plugin-removeformat': ^2.7.30
+      '@aomao/plugin-selectall': ^2.7.30
+      '@aomao/plugin-status': ^2.7.30
+      '@aomao/plugin-strikethrough': ^2.7.30
+      '@aomao/plugin-sub': ^2.7.30
+      '@aomao/plugin-sup': ^2.7.30
+      '@aomao/plugin-table': ^2.7.30
+      '@aomao/plugin-tasklist': ^2.7.30
+      '@aomao/plugin-underline': ^2.7.30
+      '@aomao/plugin-undo': ^2.7.30
+      '@aomao/plugin-unorderedlist': ^2.7.30
+      '@aomao/plugin-video': ^2.7.30
       '@commitlint/cli': ^15.0.0
       '@commitlint/config-conventional': ^15.0.0
       '@iconify-json/carbon': ^1.0.14
@@ -120,42 +120,42 @@ importers:
       workbox-window: ^6.4.2
     dependencies:
       '@am/toolbar-vue': link:../../packages/toolbar
-      '@aomao/engine': 2.7.28
-      '@aomao/plugin-alignment': 2.7.28
-      '@aomao/plugin-backcolor': 2.7.28
-      '@aomao/plugin-bold': 2.7.28
-      '@aomao/plugin-code': 2.7.28
-      '@aomao/plugin-codeblock-vue': 2.7.28
-      '@aomao/plugin-file': 2.7.28
-      '@aomao/plugin-fontcolor': 2.7.28
-      '@aomao/plugin-fontfamily': 2.7.28
-      '@aomao/plugin-fontsize': 2.7.28
-      '@aomao/plugin-heading': 2.7.28
-      '@aomao/plugin-hr': 2.7.28
-      '@aomao/plugin-image': 2.7.28
-      '@aomao/plugin-indent': 2.7.28
-      '@aomao/plugin-italic': 2.7.28
-      '@aomao/plugin-line-height': 2.7.28
-      '@aomao/plugin-link-vue': 2.7.28
-      '@aomao/plugin-mark': 2.7.28
-      '@aomao/plugin-math': 2.7.28
-      '@aomao/plugin-mention': 2.7.28
-      '@aomao/plugin-orderedlist': 2.7.28
-      '@aomao/plugin-paintformat': 2.7.28
-      '@aomao/plugin-quote': 2.7.28
-      '@aomao/plugin-redo': 2.7.28
-      '@aomao/plugin-removeformat': 2.7.28
-      '@aomao/plugin-selectall': 2.7.28
-      '@aomao/plugin-status': 2.7.28
-      '@aomao/plugin-strikethrough': 2.7.28
-      '@aomao/plugin-sub': 2.7.28
-      '@aomao/plugin-sup': 2.7.28
-      '@aomao/plugin-table': 2.7.28
-      '@aomao/plugin-tasklist': 2.7.28
-      '@aomao/plugin-underline': 2.7.28
-      '@aomao/plugin-undo': 2.7.28
-      '@aomao/plugin-unorderedlist': 2.7.28
-      '@aomao/plugin-video': 2.7.28
+      '@aomao/engine': 2.7.30
+      '@aomao/plugin-alignment': 2.7.30
+      '@aomao/plugin-backcolor': 2.7.30
+      '@aomao/plugin-bold': 2.7.30
+      '@aomao/plugin-code': 2.7.30
+      '@aomao/plugin-codeblock-vue': 2.7.30
+      '@aomao/plugin-file': 2.7.30
+      '@aomao/plugin-fontcolor': 2.7.30
+      '@aomao/plugin-fontfamily': 2.7.30
+      '@aomao/plugin-fontsize': 2.7.30
+      '@aomao/plugin-heading': 2.7.30
+      '@aomao/plugin-hr': 2.7.30
+      '@aomao/plugin-image': 2.7.30
+      '@aomao/plugin-indent': 2.7.30
+      '@aomao/plugin-italic': 2.7.30
+      '@aomao/plugin-line-height': 2.7.30
+      '@aomao/plugin-link-vue': 2.7.30
+      '@aomao/plugin-mark': 2.7.30
+      '@aomao/plugin-math': 2.7.30
+      '@aomao/plugin-mention': 2.7.30
+      '@aomao/plugin-orderedlist': 2.7.30
+      '@aomao/plugin-paintformat': 2.7.30
+      '@aomao/plugin-quote': 2.7.30
+      '@aomao/plugin-redo': 2.7.30
+      '@aomao/plugin-removeformat': 2.7.30
+      '@aomao/plugin-selectall': 2.7.30
+      '@aomao/plugin-status': 2.7.30
+      '@aomao/plugin-strikethrough': 2.7.30
+      '@aomao/plugin-sub': 2.7.30
+      '@aomao/plugin-sup': 2.7.30
+      '@aomao/plugin-table': 2.7.30
+      '@aomao/plugin-tasklist': 2.7.30
+      '@aomao/plugin-underline': 2.7.30
+      '@aomao/plugin-undo': 2.7.30
+      '@aomao/plugin-unorderedlist': 2.7.30
+      '@aomao/plugin-video': 2.7.30
       '@micro-zoe/micro-app': 0.8.4
       '@vueuse/core': 7.5.5_vue@3.2.29
       '@vueuse/head': 0.7.5_vue@3.2.29
@@ -235,41 +235,6 @@ importers:
   ../../packages/toolbar:
     specifiers:
       '@aomao/engine': ^2.7.28
-      '@aomao/plugin-alignment': ^2.6.16
-      '@aomao/plugin-backcolor': ^2.6.16
-      '@aomao/plugin-bold': ^2.6.16
-      '@aomao/plugin-code': ^2.6.16
-      '@aomao/plugin-codeblock-vue': ^2.6.16
-      '@aomao/plugin-file': ^2.6.16
-      '@aomao/plugin-fontcolor': ^2.6.16
-      '@aomao/plugin-fontfamily': ^2.6.16
-      '@aomao/plugin-fontsize': ^2.6.16
-      '@aomao/plugin-heading': ^2.6.16
-      '@aomao/plugin-hr': ^2.6.16
-      '@aomao/plugin-image': ^2.6.16
-      '@aomao/plugin-indent': ^2.6.16
-      '@aomao/plugin-italic': ^2.6.16
-      '@aomao/plugin-line-height': ^2.6.16
-      '@aomao/plugin-link-vue': ^2.6.16
-      '@aomao/plugin-mark': ^2.6.16
-      '@aomao/plugin-math': ^2.6.16
-      '@aomao/plugin-mention': ^2.6.16
-      '@aomao/plugin-orderedlist': ^2.6.16
-      '@aomao/plugin-paintformat': ^2.6.16
-      '@aomao/plugin-quote': ^2.6.16
-      '@aomao/plugin-redo': ^2.6.16
-      '@aomao/plugin-removeformat': ^2.6.16
-      '@aomao/plugin-selectall': ^2.6.16
-      '@aomao/plugin-status': ^2.6.16
-      '@aomao/plugin-strikethrough': ^2.6.16
-      '@aomao/plugin-sub': ^2.6.16
-      '@aomao/plugin-sup': ^2.6.16
-      '@aomao/plugin-table': ^2.6.16
-      '@aomao/plugin-tasklist': ^2.6.16
-      '@aomao/plugin-underline': ^2.6.16
-      '@aomao/plugin-undo': ^2.6.16
-      '@aomao/plugin-unorderedlist': ^2.6.16
-      '@aomao/plugin-video': ^2.6.16
       '@types/keymaster': ^1.6.28
       '@types/lodash': ^4.14.178
       '@types/tinycolor2': ~1.4.3
@@ -295,41 +260,6 @@ importers:
       windicss: ~3.4.3
     dependencies:
       '@aomao/engine': 2.7.28
-      '@aomao/plugin-alignment': 2.7.28
-      '@aomao/plugin-backcolor': 2.7.28
-      '@aomao/plugin-bold': 2.7.28
-      '@aomao/plugin-code': 2.7.28
-      '@aomao/plugin-codeblock-vue': 2.7.28_@vue+compiler-sfc@3.2.29
-      '@aomao/plugin-file': 2.7.28
-      '@aomao/plugin-fontcolor': 2.7.28
-      '@aomao/plugin-fontfamily': 2.7.28
-      '@aomao/plugin-fontsize': 2.7.28
-      '@aomao/plugin-heading': 2.7.28
-      '@aomao/plugin-hr': 2.7.28
-      '@aomao/plugin-image': 2.7.28
-      '@aomao/plugin-indent': 2.7.28
-      '@aomao/plugin-italic': 2.7.28
-      '@aomao/plugin-line-height': 2.7.28
-      '@aomao/plugin-link-vue': 2.7.28_@vue+compiler-sfc@3.2.29
-      '@aomao/plugin-mark': 2.7.28
-      '@aomao/plugin-math': 2.7.28
-      '@aomao/plugin-mention': 2.7.28
-      '@aomao/plugin-orderedlist': 2.7.28
-      '@aomao/plugin-paintformat': 2.7.28
-      '@aomao/plugin-quote': 2.7.28
-      '@aomao/plugin-redo': 2.7.28
-      '@aomao/plugin-removeformat': 2.7.28
-      '@aomao/plugin-selectall': 2.7.28
-      '@aomao/plugin-status': 2.7.28
-      '@aomao/plugin-strikethrough': 2.7.28
-      '@aomao/plugin-sub': 2.7.28
-      '@aomao/plugin-sup': 2.7.28
-      '@aomao/plugin-table': 2.7.28
-      '@aomao/plugin-tasklist': 2.7.28
-      '@aomao/plugin-underline': 2.7.28
-      '@aomao/plugin-undo': 2.7.28
-      '@aomao/plugin-unorderedlist': 2.7.28
-      '@aomao/plugin-video': 2.7.28
       '@vitejs/plugin-vue': 2.2.0_vite@2.8.1+vue@3.2.30
       eslint: 7.32.0
       keymaster: 1.6.2
@@ -497,6 +427,18 @@ packages:
       vue: 3.2.29
     dev: false
 
+  /@ant-design/icons-vue/6.0.1_vue@3.2.30:
+    resolution: {integrity: sha512-HigIgEVV6bbcrz2A92/qDzi/aKWB5EC6b6E1mxMB6aQA7ksiKY+gi4U94TpqyEIIhR23uaDrjufJ+xCZQ+vx6Q==}
+    peerDependencies:
+      vue: '>=3.0.3'
+    dependencies:
+      '@ant-design/colors': 5.1.1
+      '@ant-design/icons-svg': 4.2.1
+      '@types/lodash': 4.14.178
+      lodash: 4.17.21
+      vue: 3.2.30
+    dev: false
+
   /@antfu/install-pkg/0.1.0:
     resolution: {integrity: sha512-VaIJd3d1o7irZfK1U0nvBsHMyjkuyMP3HKYVV53z8DKyulkHKmjhhtccXO51WSPeeSHIeoJEoNOKavYpS7jkZw==}
     dependencies:
@@ -531,289 +473,281 @@ packages:
       tinycolor2: 1.4.2
     dev: false
 
-  /@aomao/plugin-alignment/2.7.28:
-    resolution: {integrity: sha512-fIHPX0oKVLkf0+0EC6IFuxxylB6lze67yZEVUHzZ6bCgFlVDsYhaCl8l9MUtkEb4NFHgiu2IqHQqB+P8VM2rUg==}
+  /@aomao/engine/2.7.30:
+    resolution: {integrity: sha512-J8h+1WV0NMPXD9x3zAUzbDCtJ5vTjPLJRL04TIDp8HmwcrtUMPeGDQh7qqp4xjEjGxV/UtB6ZHPLQ53AM174sA==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@babel/runtime': 7.17.0
+      blueimp-md5: 2.19.0
+      copy-to-clipboard: 3.3.1
+      diff-match-patch: 1.0.5
+      dom-align: 1.12.2
+      eventemitter2: 6.4.5
+      filesize: 6.4.0
+      is-hotkey: 0.2.0
+      lodash: 4.17.21
+      ot-json0: 1.1.0
+      tinycolor2: 1.4.2
+    dev: false
+
+  /@aomao/plugin-alignment/2.7.30:
+    resolution: {integrity: sha512-WdT7ihk6uelF5gDBA17WNwRRxlUiGRZv60r4txkMh1Xmz8I6f/xZk8Mlrm9Vs1fAp+5c0EaYuQ3hasTnhTTWkw==}
+    dependencies:
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-backcolor/2.7.28:
-    resolution: {integrity: sha512-Hq4K6OtL9PZGjqRHH5UmIhjSioqynFQB4WBweFoZGONug14mvEc0fnhqkSeHK8T5uKo97rIuejGmjdCAylpNiQ==}
+  /@aomao/plugin-backcolor/2.7.30:
+    resolution: {integrity: sha512-NWp+gUss8mv31OUH8S5nKeXxj8fNBe3qh1BY1FBfYjccu0eTPsmFfXGIctkxK8IvSLoJqh96c1JuN+7u3+d+fw==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-bold/2.7.28:
-    resolution: {integrity: sha512-833GCyRGFvnKH3jO6MdXDN2/acMqzRqO74HCTf2eLdhDpKPqZZO123/h2yGV8w9vKGcBMk6LFU0RAVy9D0T1Bw==}
+  /@aomao/plugin-bold/2.7.30:
+    resolution: {integrity: sha512-mO4BG2O/sp0TQFLGD9RtRyk63lUE5+Fzqi+gD9WARHP48A5OwY3bHeywqNPTcS8efxADMzAPgb+ehpulrhJMqg==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-code/2.7.28:
-    resolution: {integrity: sha512-rcE54529sKVfi8GBKndtno9TbypYsNAtsJ+7b5/xHUByS6Bzsrgczsz1IlSIrtzGjLh3XyJPg2rioW5hPVnbog==}
+  /@aomao/plugin-code/2.7.30:
+    resolution: {integrity: sha512-7ptJBPN5HI7lz6iY7+w3gs3ZV/UBzykKR9uGoZWXnDqRUpQRhtpuB5W0dFZ75uduk+62ouYv+H0bKBV1XWbAtA==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-codeblock-vue/2.7.28:
-    resolution: {integrity: sha512-IziH777CMn1KsTeWEH+iOoD8XMc2ajIIyQCorBxn0Iz7otDF5JHXqIIjW8Qm/NtU66OHNVRNQHOnIifUHEpVFg==}
+  /@aomao/plugin-codeblock-vue/2.7.30:
+    resolution: {integrity: sha512-3Ac6vd1B7bst1m6yvrD0rhNNTF/zURS27shd6dvwV537uR3penpwIB/U0CRNsDVOTLrNGxUISsAA3N4UgEkixg==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
-      ant-design-vue: 2.2.8_vue@3.2.29
+      ant-design-vue: 2.2.8_vue@3.2.30
       codemirror: 5.65.1
       lodash: 4.17.21
-      vue: 3.2.29
+      vue: 3.2.30
     transitivePeerDependencies:
       - '@vue/compiler-sfc'
     dev: false
 
-  /@aomao/plugin-codeblock-vue/2.7.28_@vue+compiler-sfc@3.2.29:
-    resolution: {integrity: sha512-IziH777CMn1KsTeWEH+iOoD8XMc2ajIIyQCorBxn0Iz7otDF5JHXqIIjW8Qm/NtU66OHNVRNQHOnIifUHEpVFg==}
+  /@aomao/plugin-file/2.7.30:
+    resolution: {integrity: sha512-9T6FYUG9jZxAbM9ExD2PgI2IOFYFAtrwS2BJiMlXsAVuSRNW6maFqnD0RcqiXV0BOCWmjENNti8DzrDOvDnMHQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
-      '@babel/runtime': 7.17.0
-      ant-design-vue: 2.2.8_7b9c5f8a4a835fb1fc33e1e095e7e31c
-      codemirror: 5.65.1
-      lodash: 4.17.21
-      vue: 3.2.29
-    transitivePeerDependencies:
-      - '@vue/compiler-sfc'
-    dev: false
-
-  /@aomao/plugin-file/2.7.28:
-    resolution: {integrity: sha512-kjAc06O2nko9GtlkyCESlru5VeWEi/8y4bdwlKZQYsaSd8quxX89P0WDwLl5JSBSxc74sSU8bzdNoO/UA6+Nlg==}
-    dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-fontcolor/2.7.28:
-    resolution: {integrity: sha512-ebZbr0QA43Ii/AVyPh3vMGG5SBvNBswlC0xtHFdWzPzcupzp8ECBlzvSOMUUL44zim6yeTPv3K/3nwSjWI56fw==}
+  /@aomao/plugin-fontcolor/2.7.30:
+    resolution: {integrity: sha512-XiX/SUHbtvYCRjBg8Kmd310qPN/KI95ZNq+DZiOHdtNjTcrXnLc/uA+b5R+sFBBqb00VymQdJfEX+oTcaCvGsg==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-fontfamily/2.7.28:
-    resolution: {integrity: sha512-Gbpk2gPOp1WxDWwEm3oGiMi46VI4WhUTAAPm2F/Pb+F+YFDFawzQWaNIoZDQ0UvdvwxUdLalAwn6kxBBt2k31Q==}
+  /@aomao/plugin-fontfamily/2.7.30:
+    resolution: {integrity: sha512-wKvJSOQ4ERtPpfz1oKptso3P5uC7QvCDOSLK1kyUgFBWvNS+PSl80n2C7y291//E1H2Bgu4aEO8PK9uwiJV/Ig==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-fontsize/2.7.28:
-    resolution: {integrity: sha512-mYpfkcN43jJSXOp02Bj8vIBJ6U80oDLY0klZrgYJXzBacdkK4v7CHIcxytPpY7pvtYtYsOWwgDoXmsJEoS8K4w==}
+  /@aomao/plugin-fontsize/2.7.30:
+    resolution: {integrity: sha512-VYm0EDHrFsBoqi7MPll66W9Wg2PElOWymBo4NtTzm0ZbIOD6y2DbMu1ExdY5o7miWd7JqmRxAulK2PHbe76PBA==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-heading/2.7.28:
-    resolution: {integrity: sha512-v/123nWN9WDEPPBJWQ4sr0Po+zs4HjGXaNK6ao+xAXhtJMufSeyI87lMsGs7KLaMxrJ/XvTpd4qRau+fQ7eD3w==}
+  /@aomao/plugin-heading/2.7.30:
+    resolution: {integrity: sha512-LSUdIjxjDNkMCw8MM4rY04ksE1uXdF3VouuOHxWqCGKrBCkvDWoVxVqVRcYk0Mg5gP1a+40i3BoXL4eIK3KMMw==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-hr/2.7.28:
-    resolution: {integrity: sha512-UJN4lOXxsganGYCdVeWcZ/f9xhseyB+/We+E479P2Zw6KPHmqsrjMaYBn5bZPN+c8rdb6fIT3d/UlIjUPdJCNg==}
+  /@aomao/plugin-hr/2.7.30:
+    resolution: {integrity: sha512-dN2J1CnnDy/vpn4T1eCiR5/DgtVR8pr9Lt6B+ezWjtLtG6Kw/cZA1JwcmOa12rn+jzumyHfzLAdWfPc/NQ7K5w==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-image/2.7.28:
-    resolution: {integrity: sha512-b5P4dqHTnbYIPumUHdkXxp/11L0NU2Yxq8K0L+Hu6eAip0hd6IsmG5baFiOLM3Z3NjpgTcxZdwa30/TRqBv96g==}
+  /@aomao/plugin-image/2.7.30:
+    resolution: {integrity: sha512-FsppcXq5sslWebw34Mz4lMyj30tXwjn59FIjxRag0MRog595NcCrlib5ch3asiRChs8+z5sXcDHMmGLHFYOOYg==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
       eventemitter2: 6.4.5
       photoswipe: 4.1.3
     dev: false
 
-  /@aomao/plugin-indent/2.7.28:
-    resolution: {integrity: sha512-wDvC/uzizZ7M6l4ru/KtwYr7L18Pc5z/oKN1I0MKX3R0ZHy/xhASJVzVz9EV+xwGmxKUBAf6Mq1Y6xfsLXoQ7g==}
+  /@aomao/plugin-indent/2.7.30:
+    resolution: {integrity: sha512-Tu/Toyoz2uEB9AvzgNYKb4gwir67pjFWffnSmVxnmC3yeycAgDoUkMF4uzuBi3ygZ7PYzo4oMvla4y3OZlTOTA==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-italic/2.7.28:
-    resolution: {integrity: sha512-MNRAnQqIrPXwpHTRjMpn4DlxJyKUxsqF5B6RVvBtXEtA+SF3+AXVPjasX2Ysl8FVrZZwr4V5L9XHA6CRj7LLFA==}
+  /@aomao/plugin-italic/2.7.30:
+    resolution: {integrity: sha512-O/iYptYlkg1UDqIE4W6uClCbNrimzFYJ0oXi69R7cCa8nOzDk/Z4eOfMvc5v3mtUEKWZ7h/PR525NSP2H8HQ9g==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-line-height/2.7.28:
-    resolution: {integrity: sha512-7KFdpKtgA+/JCdxtolYJKb0cCNYotYz8PKjBdg+Sn7jYDQXSf7OSeMqZT5KUhn3WhgMSIH+ZdFR+dd2IDn6uaQ==}
+  /@aomao/plugin-line-height/2.7.30:
+    resolution: {integrity: sha512-jCws/GihCqJHth+/svodEm10DImwRwISdPg8pR3aeBIBA/fTzV6iSD6RxjXe2WlIzMr44+jY+Jf29KeVgDzp/w==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-link-vue/2.7.28:
-    resolution: {integrity: sha512-0+p1BKll+dyVcZngbqGdjWH1NhWhTHKQCu3VS9SfQzTl4NTd1Bd7SokV6gpL9VVE9x5hlCsP2q1zW8+Av7n+gg==}
+  /@aomao/plugin-link-vue/2.7.30:
+    resolution: {integrity: sha512-8pdl0vuZfoEKEHn4ymeXdjAuqH2zfrUA7LEuQOI1rDxW6fmpWzrACugsh0EKLVBc3A1rHe2mGkgNhMfAx2EpHQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
-      ant-design-vue: 2.2.8_vue@3.2.29
-      vue: 3.2.29
+      ant-design-vue: 2.2.8_vue@3.2.30
+      vue: 3.2.30
     transitivePeerDependencies:
       - '@vue/compiler-sfc'
     dev: false
 
-  /@aomao/plugin-link-vue/2.7.28_@vue+compiler-sfc@3.2.29:
-    resolution: {integrity: sha512-0+p1BKll+dyVcZngbqGdjWH1NhWhTHKQCu3VS9SfQzTl4NTd1Bd7SokV6gpL9VVE9x5hlCsP2q1zW8+Av7n+gg==}
+  /@aomao/plugin-mark/2.7.30:
+    resolution: {integrity: sha512-0ZwSfOVNr18ES5oG69iF01jImvVO/FY6TFuCS604B42erxdRFhcDhWLrPCCJibvbUTx6rrIaww/3srLo6Nzu8A==}
     dependencies:
-      '@aomao/engine': 2.7.28
-      '@babel/runtime': 7.17.0
-      ant-design-vue: 2.2.8_7b9c5f8a4a835fb1fc33e1e095e7e31c
-      vue: 3.2.29
-    transitivePeerDependencies:
-      - '@vue/compiler-sfc'
-    dev: false
-
-  /@aomao/plugin-mark/2.7.28:
-    resolution: {integrity: sha512-2UH2hySthr6P1La9pGAPG9ijNq+cyPi0u1sT7mSNoywmqtnfD/IxKJML9I1OWqq89kEvdkXI9ahKiGZH2PwjWw==}
-    dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-math/2.7.28:
-    resolution: {integrity: sha512-5Dk7krICVTem0q3AwCH8Z1ArrT5K8qIpo/6QjP3/qIBq8Chncm7aNK7fzu+Rw/RAxhtjJ4XEiiwP2Yh/qUcpBw==}
+  /@aomao/plugin-math/2.7.30:
+    resolution: {integrity: sha512-5VGNBKiKwJEvPrCnbXS9xszRkYWBGK5MGvqnSQtglqM26bI/vU5bb4IY5Xq8QzV3pAlO1XyWh1yuUVRdoeGabQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
       lodash: 4.17.21
     dev: false
 
-  /@aomao/plugin-mention/2.7.28:
-    resolution: {integrity: sha512-VGxlTgm+8MpmavuRx6PIZK0zM48ISAh59rRTKIp0fyfrFck+y74A3wTR5pE/l6uFzphZ2yS9+1jUqKEeDD1AJQ==}
+  /@aomao/plugin-mention/2.7.30:
+    resolution: {integrity: sha512-l8+m2zTMObo/vCWnPmr1TzTnHfPIR6ej2SucEZRiFnRnKGD5Z0lLSsosocZ8F2riJayqAR9pu4cvt8haklJT4Q==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
       keymaster: 1.6.2
     dev: false
 
-  /@aomao/plugin-orderedlist/2.7.28:
-    resolution: {integrity: sha512-d+8MiSvgzQs8jknzczh2OwiNvpeRZVINxzfXEObdjLBPSkwnNOVA67+DsKG0TMPb3DDEwHknr+Iu2QD7ywbRDQ==}
+  /@aomao/plugin-orderedlist/2.7.30:
+    resolution: {integrity: sha512-v/UNCSQmJAGiEmOx0RN3/egXeN7Mc7EncqJ5lIFoT1WsfYteR8rJzMtL1Tuh/tigvGSVKpPloOyIym7ChzYB6g==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-paintformat/2.7.28:
-    resolution: {integrity: sha512-0/rhZJl/Z5vLB7ssmp5ZlGyU1iuMuXYvIoxY+n61mKuuxfWal4iqLrwiAELhgjXtCGUo9ndtN5VoS1erZUddLw==}
+  /@aomao/plugin-paintformat/2.7.30:
+    resolution: {integrity: sha512-J46rjPbi9LyIIzsJhF2v7jX/2huqTTzQCkZvKZQxfApMwRz5miaH1Stlj98YVGc/IG9inPCF0+Qci1Yo+cG6gQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-quote/2.7.28:
-    resolution: {integrity: sha512-TphWwu+FvkpGsB5oFVIkCTVj1s8E8UkY3vb3FyPepZgvwCBeJ55pc22ZgYJHrSFQ21jOXzy6cT9jhYcoUOysGw==}
+  /@aomao/plugin-quote/2.7.30:
+    resolution: {integrity: sha512-i4vCS9VLa8ehVdsGGRBDSAgaaNHq5GYL/x07UNZcPyk/XGYe1qFoboen2ZFEmPz5YY2FDTlITUZPqBBVp+3XhQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-redo/2.7.28:
-    resolution: {integrity: sha512-udUUVqHa41hcRCWRdA8+T6FINbEC4e7AR5khBulwcM485moTK7qMrfDk7eBsdJdGSYrixCiXpDVe+2d76LRQUw==}
+  /@aomao/plugin-redo/2.7.30:
+    resolution: {integrity: sha512-sorAf/j/sVULJ2F2s/WQJawUl+BjMtt5EGXJl1b1uSYzaH3YrPYNtgtHw+LJ5eb5Wb+J9uUWAjK5Af9we6raFg==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-removeformat/2.7.28:
-    resolution: {integrity: sha512-7VKPPwOpxg7EOpof/UJ1GCAjoVPbyXglrltBt26mBnWX48IoTwJd0gI+5zd0xbSnxtKwZ8y0RuwiJx/PPM6Vzg==}
+  /@aomao/plugin-removeformat/2.7.30:
+    resolution: {integrity: sha512-RUf5IyhqxhB+jOhD41ycliRAca9YXpDb9uAbzNqPksqPwJ2L/UK5EIL1NAjBwEMgF74HeNrZtC1PBYWC6gaMhQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-selectall/2.7.28:
-    resolution: {integrity: sha512-6fo+17M0/U3yKUIY2mPJSVS3K9CP9ttCyNP9rdXdB6vxXDMa1quGqH2+jeJsZhj+j/5oZDNGlO/RMa5xeql+Mw==}
+  /@aomao/plugin-selectall/2.7.30:
+    resolution: {integrity: sha512-YcXk1Vr01Wbn4pOU7uE64r5ClaRQdwTchyv6xI+ERmp+F4HOKhUEvdQlVPw1ligoNj4/gwcwmwZzEaFRQLG07Q==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-status/2.7.28:
-    resolution: {integrity: sha512-p5hcBG1JU19Cpvf+dCb9jpa22QGdY/QElLV3xZq0SPjv6LnPMFi8kL9CTyeI9OjnLpwokhgzr8ZPLnr/GnGrmg==}
+  /@aomao/plugin-status/2.7.30:
+    resolution: {integrity: sha512-wcN9ynNH9XEHbC8G8u4kvpwWG1JYAJHqXp3tMGSxGAyTCSVxgPeOkWCzEfmBPCMaaAeQhHhJhST6o4dhP7kCPg==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-strikethrough/2.7.28:
-    resolution: {integrity: sha512-3trZZnI2gBL7bEeH6IIC+3TOGsYbroPJ+OdXmujVnob7weBrtFsqnjqpOC9xCILkDLoSc5yLUIO7L+3W6SKHeA==}
+  /@aomao/plugin-strikethrough/2.7.30:
+    resolution: {integrity: sha512-usMJU167AaSoMH8Cf5w4Y0rQbirJtfbZYtm/1a9yIOoepZixbO0VTxLfIrn7Xvc8a3V4wcG/WHQEDnhNC7je0A==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-sub/2.7.28:
-    resolution: {integrity: sha512-b6+duLuC6HSKvqYoEr4InnGDr+dzo/w7yy5mm5edXuuFibXMX7AB/6R1jSPgZbvMotltPdlJ2KmWCk53N0fiKQ==}
+  /@aomao/plugin-sub/2.7.30:
+    resolution: {integrity: sha512-Z9jY2/LK2pRTvKRx0STwpFBD8rJJCwbLwuPzC4a3gO0JdBluU9S79V83u0Ykrdtxq0dwLu6fU4IsXgi4kLpU1A==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-sup/2.7.28:
-    resolution: {integrity: sha512-QK7EyeQgdfpk7ETV9sIvtlrKndKLInwOMQcUvWbK5yL9/Nc9TqtNBQTrx1Rp1rQcmaBvNU5iTr5GeJaYEPewVw==}
+  /@aomao/plugin-sup/2.7.30:
+    resolution: {integrity: sha512-J33FofWHS5arijiJ/07dioi/ixdMgJVIPrrb67SJ9et5mrRjrwUZDabu0P4nRBV2Y44kChjrJcOiBtqYROWNtA==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-table/2.7.28:
-    resolution: {integrity: sha512-umHPloKatFfYKz+5JHUjCU23x0HejlxVuWk+RV9FyFkh0eSeX4Xtv9p2/psSYkx4lTarAq3uAy61RkOKgid3VQ==}
+  /@aomao/plugin-table/2.7.30:
+    resolution: {integrity: sha512-L9R5BPLmGTovbeHIis9sWenTk7LzWR4Tz1XKXGXhbkNYXZzSppwLQFUIe6Xujawu/AjzoJkPCreZuwNnpFlytA==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
       eventemitter2: 6.4.5
       lodash: 4.17.21
       tinycolor2: 1.4.2
     dev: false
 
-  /@aomao/plugin-tasklist/2.7.28:
-    resolution: {integrity: sha512-es9UQEVvilu9TwfJi6KtzH+ibgTJATRmuwic/cbYwNfoxrlb9GG5CQ7/iEenyN433eI0tXkBBfySY/D2uEjTBQ==}
+  /@aomao/plugin-tasklist/2.7.30:
+    resolution: {integrity: sha512-3XaJGS+TWyQlt7xXzlY8Q+N39xODxluqDp3qI7gQ9oS8vGZA47Gsm6rORbiIjWhJdM8R7/NtXnopcM3/L7c7zA==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-underline/2.7.28:
-    resolution: {integrity: sha512-Gl8fekdSko4zz6EiAqgWS5ufmPSnhxjbqX7p5efmkaPcljMkEnZLle7ZSogjo986BSF776ApJ2yzrF/gpAm+OA==}
+  /@aomao/plugin-underline/2.7.30:
+    resolution: {integrity: sha512-kUIV/4QrtMef4IOd4sW/l8b4IEKdK/7sy221u1Ep5tBqJ6AMS1SbfKzSePeF0y9Lvsl58YK0Bx45Nrba/4RvfQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-undo/2.7.28:
-    resolution: {integrity: sha512-bh8y2iMoxrNtNbWk7JjuH/fYh+jm4FGgPvdEIsM9GBFpbbtUZbKN7jCErg4FBOyuLZdisBCzQtUz1WP6l98qDA==}
+  /@aomao/plugin-undo/2.7.30:
+    resolution: {integrity: sha512-otZGTltqL8Gq6gwDi7UNbQjdfQa2e0nUqYs2r1L0+fmWlwQF9RoIWKRXnIh+Zf3FRjzBUBSAi2qJN+xKC8h2bw==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-unorderedlist/2.7.28:
-    resolution: {integrity: sha512-UfbR1tt+dDNzgEKDX0+64Ru00zHTIwCSNKp3haK2a7zhUxN4d3rlIdSOIDnpw9bebjzBP3RlDs1E9kZOLO6lyg==}
+  /@aomao/plugin-unorderedlist/2.7.30:
+    resolution: {integrity: sha512-xLQBQPSp9iUwQ1uU6rA6Em1giB2k8AX+8kG7xCOBJ16fx7OZBg/F/SDZL6cYFybTHCTk9JSKU4ScWp3wiCV/tQ==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
-  /@aomao/plugin-video/2.7.28:
-    resolution: {integrity: sha512-I4AiYiHuoI7kwbB1NAOjYWWrfdIV4ymVV2SHLYR/Sxuto1QptLrd0LDgciLp417d4/reQtQUGYh4+P2SL817UQ==}
+  /@aomao/plugin-video/2.7.30:
+    resolution: {integrity: sha512-pNS4KEmEKkQQ9etArUY4cwjcRWyrOw08/BsR0OBkSdOvyXzqVwPMnFmFh210e1KNGzmZZPS3HaHeJY0Szmq98Q==}
     dependencies:
-      '@aomao/engine': 2.7.28
+      '@aomao/engine': 2.7.30
       '@babel/runtime': 7.17.0
     dev: false
 
@@ -2023,7 +1957,7 @@ packages:
       '@commitlint/execute-rule': 15.0.0
       '@commitlint/resolve-extends': 15.0.0
       '@commitlint/types': 15.0.0
-      '@endemolshinegroup/cosmiconfig-typescript-loader': 3.0.2_e1c3b685f8b7686dcc885a02fd14c5f0
+      '@endemolshinegroup/cosmiconfig-typescript-loader': 3.0.2
       chalk: 4.1.2
       cosmiconfig: 7.0.1
       lodash: 4.17.21
@@ -3763,32 +3697,6 @@ packages:
     dependencies:
       color-convert: 2.0.1
 
-  /ant-design-vue/2.2.8_7b9c5f8a4a835fb1fc33e1e095e7e31c:
-    resolution: {integrity: sha512-3graq9/gCfJQs6hznrHV6sa9oDmk/D1H3Oo0vLdVpPS/I61fZPk8NEyNKCHpNA6fT2cx6xx9U3QS63uuyikg/Q==}
-    peerDependencies:
-      '@vue/compiler-sfc': '>=3.1.0'
-      vue: '>=3.1.0'
-    dependencies:
-      '@ant-design/icons-vue': 6.0.1_vue@3.2.29
-      '@babel/runtime': 7.17.0
-      '@simonwep/pickr': 1.8.2
-      '@vue/compiler-sfc': 3.2.29
-      array-tree-filter: 2.1.0
-      async-validator: 3.5.2
-      dom-align: 1.12.2
-      dom-scroll-into-view: 2.0.1
-      lodash: 4.17.21
-      lodash-es: 4.17.21
-      moment: 2.29.1
-      omit.js: 2.0.2
-      resize-observer-polyfill: 1.5.1
-      scroll-into-view-if-needed: 2.2.29
-      shallow-equal: 1.2.1
-      vue: 3.2.29
-      vue-types: 3.0.2_vue@3.2.29
-      warning: 4.0.3
-    dev: false
-
   /ant-design-vue/2.2.8_vue@3.2.29:
     resolution: {integrity: sha512-3graq9/gCfJQs6hznrHV6sa9oDmk/D1H3Oo0vLdVpPS/I61fZPk8NEyNKCHpNA6fT2cx6xx9U3QS63uuyikg/Q==}
     peerDependencies:
@@ -3811,6 +3719,31 @@ packages:
       shallow-equal: 1.2.1
       vue: 3.2.29
       vue-types: 3.0.2_vue@3.2.29
+      warning: 4.0.3
+    dev: false
+
+  /ant-design-vue/2.2.8_vue@3.2.30:
+    resolution: {integrity: sha512-3graq9/gCfJQs6hznrHV6sa9oDmk/D1H3Oo0vLdVpPS/I61fZPk8NEyNKCHpNA6fT2cx6xx9U3QS63uuyikg/Q==}
+    peerDependencies:
+      '@vue/compiler-sfc': '>=3.1.0'
+      vue: '>=3.1.0'
+    dependencies:
+      '@ant-design/icons-vue': 6.0.1_vue@3.2.30
+      '@babel/runtime': 7.17.0
+      '@simonwep/pickr': 1.8.2
+      array-tree-filter: 2.1.0
+      async-validator: 3.5.2
+      dom-align: 1.12.2
+      dom-scroll-into-view: 2.0.1
+      lodash: 4.17.21
+      lodash-es: 4.17.21
+      moment: 2.29.1
+      omit.js: 2.0.2
+      resize-observer-polyfill: 1.5.1
+      scroll-into-view-if-needed: 2.2.29
+      shallow-equal: 1.2.1
+      vue: 3.2.30
+      vue-types: 3.0.2_vue@3.2.30
       warning: 4.0.3
     dev: false
 
@@ -10398,6 +10331,16 @@ packages:
     dependencies:
       is-plain-object: 3.0.1
       vue: 3.2.29
+    dev: false
+
+  /vue-types/3.0.2_vue@3.2.30:
+    resolution: {integrity: sha512-IwUC0Aq2zwaXqy74h4WCvFCUtoV0iSWr0snWnE9TnU18S66GAQyqQbRf2qfJtUuiFsBf6qp0MEwdonlwznlcrw==}
+    engines: {node: '>=10.15.0'}
+    peerDependencies:
+      vue: ^3.0.0
+    dependencies:
+      is-plain-object: 3.0.1
+      vue: 3.2.30
     dev: false
 
   /vue/3.2.29:
